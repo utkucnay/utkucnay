@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkucnay
 - 👀 I’m interested in Game Programming. My specialists are Software and AI Programmer.
-- 🌱 I’m currently learning Data Driven HFSM, Multi Threading and Stream.
+- 🌱 I’m currently learning Engine Programming.
 - 📫 How to reach me utkucnay@gmail.com
 
 <!---
