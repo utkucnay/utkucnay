@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkucnay
-- 👀 I’m interested in Game Programming. My specialists are Software and AI Programmer.
-- 🌱 I’m currently learning Engine Programming.
+- 👀 I’m interested in Game Programming. My specialists are Software Optimization and AI Programmer.
+- 🌱 I’m currently learning Engine Programming, Content Packing, Stream Big World.
 - 📫 How to reach me utkucnay@gmail.com
 
 <!---
