@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 Utku Nay
+# 👾 Utkucan Ay
 ### Game Engine & Gameplay Engineer
 
 *Building games from pixels to bytes — gameplay systems, live-ops, and low-level engine wizardry.*
@@ -58,24 +58,6 @@ while (alive) {
 
 ---
 
-## 🏆 Notable Achievements
-
-### 🃏 Word Tiles GO — *Gullivers Games*
-- Implemented **mobile game events** and **live-ops content** pipelines
-- Rebuilt the **leaderboard system** from the ground up for improved performance and scalability
-- Worked on gameplay and UI systems for a live mobile title
-
-### 🌐 The Universe Platform
-- Designed a reusable **multiplayer mini-game template** to accelerate game development
-- Built **CI/CD pipelines** using Docker and GitHub Actions, streamlining deployment workflows
-
-### 🧱 Unity Runtime Template *(Open Source)*
-- Created a Unity runtime template featuring **custom memory allocators**
-- Implemented **GC-free data structures** and **handle-based object access**
-- Focused on zero-allocation patterns for performance-critical gameplay code
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -93,9 +75,3 @@ while (alive) {
 - 🔭 Currently exploring: low-level engine systems & allocator design
 - 💬 Ask me about: Unity, Unreal, C++, live-ops architecture, or CI/CD for games
 - 📫 Reach me via [LinkedIn](https://linkedin.com/in/utkucnay) or open a discussion here on GitHub
-
----
-
-<div align="center">
-  <i>"First, make it work. Then, make it fast. Then, make it elegant."</i>
-</div>
